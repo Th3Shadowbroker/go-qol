@@ -1,0 +1,9 @@
+.idea
+.vscode
+.fleet
+
+*.cmd
+*.bat
+*.ps1
+*.exe
+*.yml
